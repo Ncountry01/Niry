@@ -1,0 +1,37 @@
+{
+  "employeeList": [
+    {
+      "firstName": "Niry",
+      "lastName": "Yadav",
+      "email": "niry@gmail.com",
+      "mobile": "768989999",
+      "role": "CEO",
+      "address": "Hazaribag",
+      "salary": "",
+      "numberformat": "7777",
+      "id": 15
+    },
+    {
+      "firstName": "Bibblo",
+      "lastName": "bibbalo",
+      "email": "b@gmail.com",
+      "mobile": "0000000000",
+      "role": "developer",
+      "address": "us",
+      "salary": "",
+      "numberformat": "19999",
+      "id": 16
+    },
+    {
+      "firstName": "Farido",
+      "lastName": "Baglo",
+      "email": "farido@gmail.com",
+      "mobile": "9999777700",
+      "role": "Developer",
+      "address": "Maxico",
+      "salary": "",
+      "numberformat": "8899990",
+      "id": 17
+    }
+  ]
+}
